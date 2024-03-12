@@ -1,0 +1,7 @@
+{
+	"db_server": "mysql.selfmade.ninja",
+	"db_username": "Klinton_03",
+	"db_password": "Klinton@432305",
+	"db_name": "Klinton_03_CrudDB",
+	"base_path": "/"
+}
